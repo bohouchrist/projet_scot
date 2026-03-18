@@ -1,0 +1,111 @@
+﻿CODE_RPG;LIBELLE_RPG;CODE_GROUPE_RPG;LIBELLE_GROUPE_RPG;CODE_CPS;LIBELLE_CPS;PBS_RHONE_ALPES;PBS_PACA;SCORE_IQE_RHONE_ALPES;SCORE_IQE_PACA;NIVEAU_IQE_RHONE_ALPES;NIVEAU_IQE_PACA
+HPC;Horticulture ornementale;25;Légumes ou fleurs;N0000T;Fleurs et plantes ornementales (non compris pépinières) de plein air ou sous abri bas (non accessible);112694.4;112694.4;5;5;Tres haute valeur economique;Tres haute valeur economique
+PEP;Pépinière (plants laissés en terre plus dun an);28;Divers;L0000T;Pépinières;30952.0;30952.0;5;5;Tres haute valeur economique;Tres haute valeur economique
+PEV;Pépinière (plants laissés en terre moins dun an);28;Divers;L0000T;Pépinières;30952.0;30952.0;5;5;Tres haute valeur economique;Tres haute valeur economique
+CHU;Chou;25;Légumes ou fleurs;V0000_S0000TK;Légumes frais, melons, fraises, culture maraîchère;28966.08;40324.23;5;5;Tres haute valeur economique;Tres haute valeur economique
+CAR;Carotte;25;Légumes ou fleurs;V0000_S0000TK;Légumes frais, melons, fraises, culture maraîchère;28966.08;40324.23;5;5;Tres haute valeur economique;Tres haute valeur economique
+AIL;Aïl;25;Légumes ou fleurs;V0000_S0000TK;Légumes frais, melons, fraises, culture maraîchère;28966.08;40324.23;5;5;Tres haute valeur economique;Tres haute valeur economique
+LBF;Laitue, endive et autres salades;25;Légumes ou fleurs;V0000_S0000TK;Légumes frais, melons, fraises, culture maraîchère;28966.08;40324.23;5;5;Tres haute valeur economique;Tres haute valeur economique
+EPI;Epinard, oseille et bette;25;Légumes ou fleurs;V0000_S0000TK;Légumes frais, melons, fraises, culture maraîchère;28966.08;40324.23;5;5;Tres haute valeur economique;Tres haute valeur economique
+FRA;Fraise (en pleine terre);25;Légumes ou fleurs;V0000_S0000TK;Légumes frais, melons, fraises, culture maraîchère;28966.08;40324.23;5;5;Tres haute valeur economique;Tres haute valeur economique
+FLA;Autre légume ou fruit annuel;25;Légumes ou fleurs;V0000_S0000TK;Légumes frais, melons, fraises, culture maraîchère;28966.08;40324.23;5;5;Tres haute valeur economique;Tres haute valeur economique
+FLP;Autre légume ou fruit pérenne (hors petit fruit à baie);25;Légumes ou fleurs;V0000_S0000TK;Légumes frais, melons, fraises, culture maraîchère;28966.08;40324.23;5;5;Tres haute valeur economique;Tres haute valeur economique
+MDI;Maraîchage diversifié (plusieurs espèces de fruits et légumes majoritairement non pérennes);25;Légumes ou fleurs;V0000_S0000TK;Légumes frais, melons, fraises, culture maraîchère;28966.08;40324.23;5;5;Tres haute valeur economique;Tres haute valeur economique
+CCN;Concombre, cornichon et courgette;25;Légumes ou fleurs;V0000_S0000TK;Légumes frais, melons, fraises, culture maraîchère;28966.08;40324.23;5;5;Tres haute valeur economique;Tres haute valeur economique
+ART;Artichaut;25;Légumes ou fleurs;V0000_S0000TK;Légumes frais, melons, fraises, culture maraîchère;28966.08;40324.23;5;5;Tres haute valeur economique;Tres haute valeur economique
+POR;Poireau;25;Légumes ou fleurs;V0000_S0000TK;Légumes frais, melons, fraises, culture maraîchère;28966.08;40324.23;5;5;Tres haute valeur economique;Tres haute valeur economique
+POT;Potiron, citrouille et autres courges;25;Légumes ou fleurs;V0000_S0000TK;Légumes frais, melons, fraises, culture maraîchère;28966.08;40324.23;5;5;Tres haute valeur economique;Tres haute valeur economique
+NVT;Navet, rutabaga et autres légumes racines (hors carotte, radis, betterave);25;Légumes ou fleurs;V0000_S0000TK;Légumes frais, melons, fraises, culture maraîchère;28966.08;40324.23;5;5;Tres haute valeur economique;Tres haute valeur economique
+OIG;Oignon et échalote;25;Légumes ou fleurs;V0000_S0000TK;Légumes frais, melons, fraises, culture maraîchère;28966.08;40324.23;5;5;Tres haute valeur economique;Tres haute valeur economique
+TBT;Tubercule tropical;28;Divers;V0000_S0000TK;Légumes frais, melons, fraises, culture maraîchère;28966.08;40324.23;5;5;Tres haute valeur economique;Tres haute valeur economique
+TOM;Tomate (en pleine terre);25;Légumes ou fleurs;V0000_S0000TK;Légumes frais, melons, fraises, culture maraîchère;28966.08;40324.23;5;5;Tres haute valeur economique;Tres haute valeur economique
+RDI;Radis;25;Légumes ou fleurs;V0000_S0000TK;Légumes frais, melons, fraises, culture maraîchère;28966.08;40324.23;5;5;Tres haute valeur economique;Tres haute valeur economique
+PVP;Poivron, piment et aubergine;25;Légumes ou fleurs;V0000_S0000TK;Légumes frais, melons, fraises, culture maraîchère;28966.08;40324.23;5;5;Tres haute valeur economique;Tres haute valeur economique
+MLO;Melon et pastèque;25;Légumes ou fleurs;V0000_S0000TK;Légumes frais, melons, fraises, culture maraîchère;28966.08;40324.23;5;5;Tres haute valeur economique;Tres haute valeur economique
+AGR;Agrume;20;Vergers;T0000T;Agrumeraies;27435.99;27435.99;5;5;Tres haute valeur economique;Tres haute valeur economique
+PFR;Petit fruit à baie (hors fraise);20;Vergers;F3000T;Baies ;22395.46;37243.51;5;5;Tres haute valeur economique;Tres haute valeur economique
+TCR;Taillis à courte rotation;28;Divers;PECR9_H9000T;Autres cultures permanentes;20448.0;20448.0;5;5;Tres haute valeur economique;Tres haute valeur economique
+PWT;Poire;20;Vergers;F1100T;fruits à pépins;20070.61;29897.16;5;5;Tres haute valeur economique;Tres haute valeur economique
+PRU;Prune (y compris mirabelle, quetsche, reine-claude, );20;Vergers;F1200T;fruits à noyaux;18768.32;31709.56;5;5;Tres haute valeur economique;Tres haute valeur economique
+CBT;Cerise;20;Vergers;F1200T;fruits à noyaux;18768.32;31709.56;5;5;Tres haute valeur economique;Tres haute valeur economique
+PVT;Pêche (y compris nectarine, brugnon);20;Vergers;F1200T;fruits à noyaux;18768.32;31709.56;5;5;Tres haute valeur economique;Tres haute valeur economique
+PTC;Pomme de terre;25;Légumes ou fleurs;R1000T;Pommes de terre (y c les primeurs et les plants);14636.65;19695.58;4;5;Haute valeur economique;Tres haute valeur economique
+VRC;Vigne (sauf vigne rouge);21;Vignes;W1100T;Raisins pour le vin;13156.25;11167.67;4;4;Haute valeur economique;Haute valeur economique
+VRG;Autre verger (y compris verger DOM);20;Vergers;F0000T;Fruits;10526.06;29700.21;4;5;Haute valeur economique;Tres haute valeur economique
+CID;Cultures conduites en inter-rangs (bandes de cultures différentes)  - 2 cultures représentant chacune plus de 25  %;28;Divers;ARA99T_ARA09S;Autres cultures de terres arables;5566.02;3635.72;3;2;Valeur economique moyenne;Faible valeur economique
+OLI;Olive;23;Oliviers;O1000T;Olives;4764.36;4764.36;3;3;Valeur economique moyenne;Valeur economique moyenne
+CTG;Châtaigne;22;Fruits à coque;F4000T;Fruits à coque;4032.03;3359.97;3;2;Valeur economique moyenne;Faible valeur economique
+NOX;Noix (y compris noix de coco);22;Fruits à coque;F4000T;Fruits à coque;4032.03;3359.97;3;2;Valeur economique moyenne;Faible valeur economique
+TRU;Truffière (chênaie de plants mycorhizés);28;Divers;F4000T;Fruits à coque;4032.03;3359.97;3;2;Valeur economique moyenne;Faible valeur economique
+NOS;Noisette;22;Fruits à coque;F4000T;Fruits à coque;4032.03;3359.97;3;2;Valeur economique moyenne;Faible valeur economique
+AAR;Plantes aromatiques herbacées non pérennes (< 5 ans) autres que persil;24;Autres cultures industrielles;I5000T;Plantes aromatiques, médicinales et condimentaires;2954.79;2954.79;2;2;Faible valeur economique;Faible valeur economique
+AME;Plantes médicinales et à parfum non pérennes (< 5 ans);24;Autres cultures industrielles;I5000T;Plantes aromatiques, médicinales et condimentaires;2954.79;2954.79;2;2;Faible valeur economique;Faible valeur economique
+ARP;Plante aromatique pérenne non arbustive ou arborée autre que la vanille;24;Autres cultures industrielles;I5000T;Plantes aromatiques, médicinales et condimentaires;2954.79;2954.79;2;2;Faible valeur economique;Faible valeur economique
+LAV;Lavande et lavandin;24;Autres cultures industrielles;I5000T;Plantes aromatiques, médicinales et condimentaires;2954.79;2954.79;2;2;Faible valeur economique;Faible valeur economique
+FNU;Fenugrec;24;Autres cultures industrielles;I5000T;Plantes aromatiques, médicinales et condimentaires;2954.79;2954.79;2;2;Faible valeur economique;Faible valeur economique
+PPP;Plantes médicinales pérennes (arbres ou arbustes) sauf cassis;24;Autres cultures industrielles;I5000T;Plantes aromatiques, médicinales et condimentaires;2954.79;2954.79;2;2;Faible valeur economique;Faible valeur economique
+PSL;Persil;24;Autres cultures industrielles;I5000T;Plantes aromatiques, médicinales et condimentaires;2954.79;2954.79;2;2;Faible valeur economique;Faible valeur economique
+PME;Plantes médicinales pérennes (autres que arbres);25;Autres cultures industrielles;I5000T;Plantes aromatiques, médicinales et condimentaires;2954.79;2954.79;2;2;Faible valeur economique;Faible valeur economique
+PRF;Plantes à parfum pérennes autres que lavande et lavandin;24;Autres cultures industrielles;I5000T;Plantes aromatiques, médicinales et condimentaires;2954.79;2954.79;2;2;Faible valeur economique;Faible valeur economique
+BTN;Betterave;24;Autres cultures industrielles;R2000T;Betteraves  sucrières;2265.04;2265.04;2;2;Faible valeur economique;Faible valeur economique
+CHV;Chanvre;9;Plantes à fibres;I2200T;Chanvre;1734.39;1537.3;1;1;Tres faible valeur economique;Tres faible valeur economique
+TRN;Tournesol;6;Tournesol;I1120T;Tournesol;1727.35;1015.95;1;1;Tres faible valeur economique;Tres faible valeur economique
+MIS;Maïs (hors maïs doux);2;Maïs grain et ensilage;C1500T;Maïs grain;1567.37;1523.62;1;1;Tres faible valeur economique;Tres faible valeur economique
+MID;Maïs doux;2;Maïs grain et ensilage;C1500T;Maïs grain;1567.37;1523.62;1;1;Tres faible valeur economique;Tres faible valeur economique
+BDH;Blé dur dhiver;4;Autres céréales;C1120T;Blé dur;1453.95;988.15;1;1;Tres faible valeur economique;Tres faible valeur economique
+BDP;Blé dur de printemps;4;Autres céréales;C1120T;Blé dur;1453.95;988.15;1;1;Tres faible valeur economique;Tres faible valeur economique
+CZH;Colza dhiver;5;Colza;I1110T;Colza ou navette;1436.75;936.07;1;1;Tres faible valeur economique;Tres faible valeur economique
+CZP;Colza de printemps;5;Colza;I1110T;Colza ou navette;1436.75;936.07;1;1;Tres faible valeur economique;Tres faible valeur economique
+CML;Cameline;24;Autres cultures industrielles;I1190T;Autres oléagineux;1363.79;1361.65;1;1;Tres faible valeur economique;Tres faible valeur economique
+OHR;Autres oléagineux ou mélange d'oléagineux d'hiver (dont navette d'hiver);7;Autres oléagineux;I1190T;Autres oléagineux;1363.79;1361.65;1;1;Tres faible valeur economique;Tres faible valeur economique
+MOT;Moutarde d'hiver;24;Autres cultures industrielles;I1190T;Autres oléagineux;1363.79;1361.65;1;1;Tres faible valeur economique;Tres faible valeur economique
+OAG;Autres oléagineux ou mélange d'oléagineux de printemps et d'été (dont moutarde ou navette d'été, sésame et nyger);7;Autres oléagineux;I1190T;Autres oléagineux;1363.79;1361.65;1;1;Tres faible valeur economique;Tres faible valeur economique
+BTP;Blé tendre de printemps;1;Blé tendre;C1110T;Blé tendre et épeautre;1312.61;738.93;1;1;Tres faible valeur economique;Tres faible valeur economique
+EPE;Epeautre (petit épeautre ou engrain et grand épeautre);4;Autres céréales;C1110T;Blé tendre et épeautre;1312.61;738.93;1;1;Tres faible valeur economique;Tres faible valeur economique
+BTH;Blé tendre dhiver;1;Blé tendre;C1110T;Blé tendre et épeautre;1312.61;738.93;1;1;Tres faible valeur economique;Tres faible valeur economique
+SOJ;Soja;7;Autres oléagineux;I1130T;Soja;1231.69;1118.19;1;1;Tres faible valeur economique;Tres faible valeur economique
+ORP;Orge de printemps;3;Orge;C1300T;Orge;1003.85;642.6;1;1;Tres faible valeur economique;Tres faible valeur economique
+ORH;Orge d'hiver;3;Orge;C1300T;Orge;1003.85;642.6;1;1;Tres faible valeur economique;Tres faible valeur economique
+TTH;Triticale dhiver;4;Autres céréales;C1600T_C1700T_C1900T;Autres céréales;991.53;707.09;1;1;Tres faible valeur economique;Tres faible valeur economique
+SRS;Sarrasin;4;Autres céréales;C1600T_C1700T_C1900T;Autres céréales;991.53;707.09;1;1;Tres faible valeur economique;Tres faible valeur economique
+TTP;Triticale de printemps;4;Autres céréales;C1600T_C1700T_C1900T;Autres céréales;991.53;707.09;1;1;Tres faible valeur economique;Tres faible valeur economique
+MLT;Millet;4;Autres céréales;C1600T_C1700T_C1900T;Autres céréales;991.53;707.09;1;1;Tres faible valeur economique;Tres faible valeur economique
+MCR;Mélange de céréales ou pseudo-céréales d'hiver entre elles;4;Autres céréales;C1600T_C1700T_C1900T;Autres céréales;991.53;707.09;1;1;Tres faible valeur economique;Tres faible valeur economique
+SOG;Sorgho;4;Autres céréales;C1600T_C1700T_C1900T;Autres céréales;991.53;707.09;1;1;Tres faible valeur economique;Tres faible valeur economique
+MCS;Mélange de céréales ou pseudo-céréales de printemps entre elles;4;Autres céréales;C1600T_C1700T_C1900T;Autres céréales;991.53;707.09;1;1;Tres faible valeur economique;Tres faible valeur economique
+CAH;Autre céréale ou pseudo-céréale secondaire d'hiver;4;Autres céréales;C1600T_C1700T_C1900T;Autres céréales;991.53;707.09;1;1;Tres faible valeur economique;Tres faible valeur economique
+CAG;Autre céréale ou pseudo-céréale secondaire de printemps (alpiste, quinoa, chia, );4;Autres céréales;C1600T_C1700T_C1900T;Autres céréales;991.53;707.09;1;1;Tres faible valeur economique;Tres faible valeur economique
+LIP;Lin non textile de printemps;7;Autres oléagineux;I1140T;Lin oléagineux;783.91;794.49;1;1;Tres faible valeur economique;Tres faible valeur economique
+FVL;Féverole d'hiver;8;Protéagineux;P1000T;Pois, fèves et lupins doux;677.16;549.17;1;1;Tres faible valeur economique;Tres faible valeur economique
+PAG;Autre légumineuse à graines ou fourragères;8;Protéagineux;P1000T;Pois, fèves et lupins doux;677.16;549.17;1;1;Tres faible valeur economique;Tres faible valeur economique
+PHI;Pois protéagineux d'hiver (alimentation animale);8;Protéagineux;P1000T;Pois, fèves et lupins doux;677.16;549.17;1;1;Tres faible valeur economique;Tres faible valeur economique
+MPC;Mélange de protéagineux (pois et/ou lupin et/ou féverole) prépondérants semés avant le 31/05 et de céréales;8;Protéagineux;P1000T;Pois, fèves et lupins doux;677.16;549.17;1;1;Tres faible valeur economique;Tres faible valeur economique
+FEV;Fève;8;Protéagineux;P1000T;Pois, fèves et lupins doux;677.16;549.17;1;1;Tres faible valeur economique;Tres faible valeur economique
+PPR;Pois protéagineux de printemps (alimentation animale);8;Protéagineux;P1000T;Pois, fèves et lupins doux;677.16;549.17;1;1;Tres faible valeur economique;Tres faible valeur economique
+AVP;Avoine de printemps;4;Autres céréales;C1400T;Avoine;646.21;402.57;1;1;Tres faible valeur economique;Tres faible valeur economique
+AVH;Avoine dhiver;4;Autres céréales;C1400T;Avoine;646.21;402.57;1;1;Tres faible valeur economique;Tres faible valeur economique
+PCH;Pois chiche;15;Légumineuses à grains;P0000T;Légumes secs et protéagineux - total;632.78;613.86;1;1;Tres faible valeur economique;Tres faible valeur economique
+LEC;Lentille;15;Légumineuses à grains;P0000T;Légumes secs et protéagineux - total;632.78;613.86;1;1;Tres faible valeur economique;Tres faible valeur economique
+PHS;Pois et haricot secs (alimentation humaine);8;Protéagineux;P0000T;Légumes secs et protéagineux - total;632.78;613.86;1;1;Tres faible valeur economique;Tres faible valeur economique
+PHF;Pois et haricot frais (alimentation humaine);8;Protéagineux;P0000T;Légumes secs et protéagineux - total;632.78;613.86;1;1;Tres faible valeur economique;Tres faible valeur economique
+SGH;Seigle dhiver;4;Autres céréales;C1200T;Seigle;626.25;442.92;1;1;Tres faible valeur economique;Tres faible valeur economique
+LUZ;Autre luzerne;16;Fourrage;G2000T;Légumineuses;102.66;110.47;1;1;Tres faible valeur economique;Tres faible valeur economique
+MLF;Mélange de légumineuses à graines ou fourragères pures;16;Fourrage;G2000T;Légumineuses;102.66;110.47;1;1;Tres faible valeur economique;Tres faible valeur economique
+MLG;Mélange de légumineuses prépondérantes et de graminées fourragères de 5 ans ou moins;16;Fourrage;G2000T;Légumineuses;102.66;110.47;1;1;Tres faible valeur economique;Tres faible valeur economique
+LOT;Lotier, minette;16;Fourrage;G2000T;Légumineuses;102.66;110.47;1;1;Tres faible valeur economique;Tres faible valeur economique
+SAI;Sainfoin;16;Fourrage;G2000T;Légumineuses;102.66;110.47;1;1;Tres faible valeur economique;Tres faible valeur economique
+TRE;Autre trèfle;16;Fourrage;G2000T;Légumineuses;102.66;110.47;1;1;Tres faible valeur economique;Tres faible valeur economique
+VES;Vesce, mélilot, jarosse, serradelle;16;Fourrage;G2000T;Légumineuses;102.66;110.47;1;1;Tres faible valeur economique;Tres faible valeur economique
+MLC;Mélange multi-espèces avec légumineuses fourragères prépondérantes sans graminées prairiales;16;Fourrage;G2000T;Légumineuses;102.66;110.47;1;1;Tres faible valeur economique;Tres faible valeur economique
+GRA;Graminée pure exclusivement pour gazon ou pour production de semences certifiées;28;Divers;G1000T;Prairies temporaires;47.4;52.43;1;1;Tres faible valeur economique;Tres faible valeur economique
+PTR;Prairie temporaire de moins de 5 ans et autre mélange avec graminées;19;Prairies temporaires;G1000T;Prairies temporaires;47.4;52.43;1;1;Tres faible valeur economique;Tres faible valeur economique
+PPH;Prairie de 6 ans ou plus (couvert herbacé);18;Prairies permanentes;J1000T;Prairies permanentes hors pâturages pauvres;40.96;73.84;1;1;Tres faible valeur economique;Tres faible valeur economique
+CPL;Mélange multi-espèces (céréales, oléagineux, légumineuses, ) sans graminées prairiales et sans prédominance de légumineuses;16;Fourrage;G9100T_G9900T;Autres plantes fourragères annuelles;40.17;81.31;1;1;Tres faible valeur economique;Tres faible valeur economique
+AFG;Autre plante fourragère annuelle (ni légumineuse, ni graminée, ni céréale, ni oléagineux);16;Fourrage;G9100T_G9900T;Autres plantes fourragères annuelles;40.17;81.31;1;1;Tres faible valeur economique;Tres faible valeur economique
+MOH;Moha;16;Fourrage;G9100T_G9900T;Autres plantes fourragères annuelles;40.17;81.31;1;1;Tres faible valeur economique;Tres faible valeur economique
+SPH;Prairie avec herbe prédominante et ressources fourragères ligneuses présentes;17;Estives et landes;J2000T;Pâturages pauvres;14.16;5.78;1;1;Tres faible valeur economique;Tres faible valeur economique
+SPL;Surface pastorale - Ressources fourragères ligneuses prédominantes;17;Estives et landes;J2000T;Pâturages pauvres;14.16;5.78;1;1;Tres faible valeur economique;Tres faible valeur economique
+JAC;Jachère (terre arable);11;Gel (surfaces gelées sans production);J3000TE;Prairies permanentes non exploitées à des fins de production et donnant droit au versement de subventions;0.0;0.0;1;1;Tres faible valeur economique;Tres faible valeur economique
+BFS;Bordure le long d'une forêt sans production;28;Divers;J3000TE;Prairies permanentes non exploitées à des fins de production et donnant droit au versement de subventions;0.0;0.0;1;1;Tres faible valeur economique;Tres faible valeur economique
+BOR;Bordure de champ;28;Divers;J3000TE;Prairies permanentes non exploitées à des fins de production et donnant droit au versement de subventions;0.0;0.0;1;1;Tres faible valeur economique;Tres faible valeur economique
+BTA;Bande tampon;28;Divers;J3000TE;Prairies permanentes non exploitées à des fins de production et donnant droit au versement de subventions;0.0;0.0;1;1;Tres faible valeur economique;Tres faible valeur economique
